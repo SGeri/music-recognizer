@@ -23,13 +23,13 @@ _Tested operation systems:_ Win10
    pip install pyaudio
    ```
 
-````
-This didnt really worked for me, so the solution was:
-```python
-#run cmd as administrator
-pip install pipwin
-pipwin install pyaudio
-````
+   This didnt really worked for me, so the solution was:
+   
+   ```python
+   #run cmd as administrator
+   pip install pipwin
+   pipwin install pyaudio
+   ```
 
 3. After you installed the dependencies, you have to **create API keys** for ACRCloud and Genius Lyrics:
 
