@@ -6,6 +6,10 @@
     "timeout": 10
   },
 
+  "LYRICS_CONFIG": {
+    "TOKEN": ""
+  },
+
   "VIDEO_CONFIG": {
     "CHUNK": 1024,
     "FORMAT": null,
@@ -14,9 +18,5 @@
 
     "SAMPLE_LENGTH": 5,
     "TMP_FILE_NAME": "sample.wav"
-  },
-
-  "LYRICS_CONFIG": {
-    "TOKEN": ""
   }
 }
