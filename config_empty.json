@@ -1,0 +1,22 @@
+{
+  "ACR_CONFIG": {
+    "host": "",
+    "access_key": "",
+    "access_secret": "",
+    "timeout": 10
+  },
+
+  "VIDEO_CONFIG": {
+    "CHUNK": 1024,
+    "FORMAT": null,
+    "CHANNELS": 2,
+    "RATE": 48000,
+
+    "SAMPLE_LENGTH": 5,
+    "TMP_FILE_NAME": "sample.wav"
+  },
+
+  "LYRICS_CONFIG": {
+    "TOKEN": ""
+  }
+}
